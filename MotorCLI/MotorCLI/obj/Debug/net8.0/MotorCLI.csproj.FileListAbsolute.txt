@@ -1,0 +1,14 @@
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\bin\Debug\net8.0\MotorCLI.exe
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\bin\Debug\net8.0\MotorCLI.deps.json
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\bin\Debug\net8.0\MotorCLI.runtimeconfig.json
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\bin\Debug\net8.0\MotorCLI.dll
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\bin\Debug\net8.0\MotorCLI.pdb
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\obj\Debug\net8.0\MotorCLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\obj\Debug\net8.0\MotorCLI.AssemblyInfoInputs.cache
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\obj\Debug\net8.0\MotorCLI.AssemblyInfo.cs
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\obj\Debug\net8.0\MotorCLI.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\obj\Debug\net8.0\MotorCLI.dll
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\obj\Debug\net8.0\refint\MotorCLI.dll
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\obj\Debug\net8.0\MotorCLI.pdb
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\obj\Debug\net8.0\MotorCLI.genruntimeconfig.cache
+C:\Users\josea\source\repos\MotorCLI\MotorCLI\obj\Debug\net8.0\ref\MotorCLI.dll
